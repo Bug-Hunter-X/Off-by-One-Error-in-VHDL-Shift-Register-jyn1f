@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, off-by-one error often encountered when implementing shift registers in VHDL. The error arises from an inconsistency in the indexing and sizing of the shift register signal. The provided `bug.vhdl` contains the erroneous code, while `bugSolution.vhdl` presents the corrected version.
